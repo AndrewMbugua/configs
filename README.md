@@ -5,3 +5,5 @@ My configs & plugins include:
 1. Vundle Vim plugin manager. 
 1. C language autocompletion.
 2. Vim autosave.
+
+More updates will be added as time goes by.
