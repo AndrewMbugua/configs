@@ -7,8 +7,7 @@ My configs & plugins include:
 2. Vim autosave.
 
 ### [Sources]
-[YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
-
-[Vim-Auto-Save](https://github.com/907th/vim-auto-save)
+1. [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+2. [Vim-Auto-Save](https://github.com/907th/vim-auto-save)
 
 More updates will be added as time goes by.
